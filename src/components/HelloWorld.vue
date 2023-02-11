@@ -10,7 +10,7 @@
 <div class="card" v-on:mouseover="hoover">
   <h1 class="title">Chad of Cyber IST</h1>
 
-  <img class="giaImg" src="https://media.discordapp.net/attachments/963095262363017246/1020131830323744788/unknown.png?width=468&height=468" alt="Professor Giacobe">
+  <img class="img" src="https://media.discordapp.net/attachments/963095262363017246/1020131830323744788/unknown.png?width=468&height=468" alt="Professor Giacobe">
   
 <div class="textbox">
   <details>
